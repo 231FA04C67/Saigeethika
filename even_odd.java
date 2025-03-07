@@ -10,7 +10,8 @@ public class EvenOdd {
         if (number % 2 == 0) {
             System.out.println(number + " is even.");
         } else {
-            System.out.println(number + " is odd.");
+            System.out.println(number + " is odd..");
         }
     }
+    //ytest
 }
